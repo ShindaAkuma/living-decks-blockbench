@@ -73,8 +73,8 @@ import and undo were tested by hand.
 
 Not tested: the web app of Blockbench, Blockbench versions before 5.2, macOS and Linux.
 
-Found a bug or have an idea? Open an issue here or leave a comment on the [Living Decks
-]([CURSEFORGE_LINK](https://www.curseforge.com/minecraft/mc-mods/living-decks).
+Found a bug or have an idea? Open an issue here or leave a comment on the ([Living Decks
+](https://www.curseforge.com/minecraft/mc-mods/living-decks).
 
 ## Credits
 
