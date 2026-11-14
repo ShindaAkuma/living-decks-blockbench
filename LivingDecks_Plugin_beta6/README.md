@@ -1,5 +1,3 @@
-<!-- Before publishing: replace CURSEFORGE_LINK (2 places in this file) with the address of the mod page. -->
-
 # Living Decks: Blockbench plugin and modding guide
 
 **Living Decks** is a Minecraft mod (NeoForge 26.1.2) that gives big creatures a **deck**: players stand on it, ride along while the
@@ -23,7 +21,9 @@ level.*
 
 ## Install the plugin
 
-1. Download [`living_decks.js`](living_decks.js). Keep the file name: Blockbench requires it to match the id of the plugin.
+1. Open [`living_decks.js`](living_decks.js) and click the download icon (**Download raw file**) at the top right of the code.
+   Keep the file name `living_decks.js` and rename it back if your browser added a number: Blockbench requires it to match the id
+   of the plugin.
 2. In Blockbench: **File > Plugins**, then the icon **Load Plugin from File** at the top, and pick the file.
 3. A new menu **Living Decks** appears in the menu bar next to *Tools*.
 
@@ -73,8 +73,7 @@ import and undo were tested by hand.
 
 Not tested: the web app of Blockbench, Blockbench versions before 5.2, macOS and Linux.
 
-Found a bug or have an idea? Open an issue here or leave a comment on the ([Living Decks
-](https://www.curseforge.com/minecraft/mc-mods/living-decks).
+Found a bug or have an idea? Open an issue here or leave a comment on the [mod page](https://www.curseforge.com/minecraft/mc-mods/living-decks).
 
 ## Credits
 
