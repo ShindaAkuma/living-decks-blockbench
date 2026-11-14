@@ -1,0 +1,57 @@
+Living Decks - Blockbench Plugin
+Copyright (c) 2026 xxXShindaXxx. All rights reserved.
+
+This license covers the Blockbench plugin "Living Decks" (the file
+living_decks.js), the guide and the other documentation in this repository,
+and the example files in the folder "examples" (together: "the Plugin").
+The Minecraft mod "Living Decks" is a separate work with its own terms.
+
+1. What you may do
+
+   You may, free of charge:
+
+   a) download, install and use the Plugin, for private and for commercial
+      projects;
+   b) create deck files, data packs and models with it. Everything you create
+      or export with the Plugin is yours: you may use, change and distribute
+      it without restriction, without credit and without asking, for example
+      inside your own mods, data packs and modpacks;
+   c) use, change and distribute the example files in the folder "examples"
+      as a starting point for your own work;
+   d) change the Plugin for your own personal use;
+   e) link to this repository and to the official download pages of the
+      Plugin.
+
+2. What you may not do
+
+   Without prior written permission from the author you may not:
+
+   a) redistribute, re-upload, mirror or sell the Plugin or its
+      documentation, in original or changed form, alone or as part of a
+      bundle;
+   b) pass off the Plugin, or a changed version of it, as your own work;
+   c) remove or change this license or the copyright notices.
+
+   Forks made with GitHub's own fork function are permitted to the extent
+   GitHub's Terms of Service require it. They remain subject to this license.
+
+3. No warranty
+
+   THE PLUGIN IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. TO THE EXTENT
+   PERMITTED BY APPLICABLE LAW, THE AUTHOR IS NOT LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+   PLUGIN OR ITS USE.
+
+4. Third parties
+
+   Blockbench belongs to its authors. Minecraft is a trademark of Mojang AB.
+   The Plugin is not affiliated with, endorsed by or approved by Mojang,
+   Microsoft or the authors of Blockbench.
+
+5. Permissions and questions
+
+   For anything this license does not allow, ask first: open an issue in the
+   official repository of the Plugin or write a comment on the page of the
+   mod "Living Decks".
