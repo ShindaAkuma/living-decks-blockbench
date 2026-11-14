@@ -14,7 +14,7 @@ This repository has what you need to give a creature a deck:
 | [`GUIDE.md`](GUIDE.md) | The **guide** for mod authors and data packs: the deck file, zones, parts, saddles, starting builds, animated bodies, access rules, beds and the API. |
 | [`examples/`](examples) | Example models, their deck files and a ready-made data pack. |
 
-The mod itself: [Living Decks on CurseForge](CURSEFORGE_LINK)
+The mod itself: [Living Decks on CurseForge](https://www.curseforge.com/minecraft/mc-mods/living-decks)
 
 ![The plugin preview in Blockbench: three zones on a ghast](images/preview_three_zones.png)
 
@@ -73,7 +73,7 @@ import and undo were tested by hand.
 
 Not tested: the web app of Blockbench, Blockbench versions before 5.2, macOS and Linux.
 
-Found a bug or have an idea? Open an issue here or leave a comment on the [mod page](CURSEFORGE_LINK).
+Found a bug or have an idea? Open an issue here or leave a comment on the [mod page]([CURSEFORGE_LINK](https://www.curseforge.com/minecraft/mc-mods/living-decks).
 
 ## Credits
 
