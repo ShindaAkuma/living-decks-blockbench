@@ -1,0 +1,11 @@
+{
+  "entity": "minecraft:happy_ghast",
+  "floor": { "y": -5, "x": 0.5, "z": 0.5, "block": "minecraft:dark_oak_planks", "thickness": 0.5 },
+  "zones": [
+    { "from": [-3, -3], "to": [2, 2], "max_height": 5 }
+  ],
+  "max_blocks": 96,
+  "rim": true,
+  "structure": "livingdecks_example:ghast_gondola",
+  "saddle": true
+}
