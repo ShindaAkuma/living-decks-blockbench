@@ -1,21 +1,27 @@
-MIT License
+Living Decks Blockbench Plugin License
 
-Copyright (c) 2026 ShindaAkuma
+Copyright (c) 2026 xxXShindaXxx (GitHub: ShindaAkuma). All rights reserved.
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+This license covers the Living Decks Blockbench plugin (living_decks.js, in all versions) and the
+other files in this repository.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+You may:
+1. Use the plugin free of charge, for personal and commercial projects.
+2. Change the plugin for your own use.
+3. Use, adapt and include the files in the examples folder in your own projects, also commercially.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Everything you create or export with the plugin, such as models, deck files and data packs,
+belongs to you. This license puts no restrictions on it.
+
+You may not:
+1. Redistribute or re-upload the plugin, changed or unchanged, on any website or platform, or as
+   part of another download.
+2. Sell the plugin or present it as your own work.
+
+Sharing a link to this repository or to the Living Decks mod page is welcome. Forking this
+repository on GitHub is possible under GitHub's Terms of Service; it does not give the right to
+distribute the plugin anywhere else.
+
+THE PLUGIN AND ALL FILES IN THIS REPOSITORY ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY ARISING FROM THE USE OF THE PLUGIN OR THESE FILES.
